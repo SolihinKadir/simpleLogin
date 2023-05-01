@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184213910481",
+    "project_id": "simplelogin-59353",
+    "storage_bucket": "simplelogin-59353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184213910481:android:70be47d2558f62f5ad26f0",
+        "android_client_info": {
+          "package_name": "com.example.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184213910481-63pett9uorek4cmm5mui2e3l1fkqa36r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI34kau0I2GznMPRrzj-RNYayKcGCV-as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184213910481-63pett9uorek4cmm5mui2e3l1fkqa36r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
